@@ -68,6 +68,4 @@ Business dashboard yang telah dibuat dirancang untuk membantu Institusi Jaya gun
 - Visualisasi tersebut menunjukkan bahwa semakin tinggi tingkat pengalaman, semakin besar gaji yang diperoleh, dengan peran di bidang AI seperti AI Architect, AI Data Scientist, dan AI Developer menempati jajaran gaji tertinggi, sementara jabatan non-AI cenderung lebih rendah namun tetap meningkat seiring pengalaman
 
 ---
-- Dashboard ini memberikan wawasan yang dapat membantu Institusi Jaya mnegambil langkah strategis. untuk merancang sebuah program agar tidak banyak mahasiswa/i yang dropout dari institusi Jaya Jaya.
-Link Dashboard: https://public.tableau.com/app/profile/ahmad.musthofanur/viz/edy_17474146664790/DashboardStudent-Analysis?publish=yes
----
+Link Dashboard: Tableau Public (untuk visualisasi dashboard): [Tableau Public](https://public.tableau.com/app/profile/ahmad.musthofanur/viz/Jobssalariesdashboard_17548494349360/Dashboard1)
